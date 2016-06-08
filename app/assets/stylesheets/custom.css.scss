@@ -60,12 +60,16 @@ textarea {
   letter-spacing: -1px;
   padding-top: 9px;
   font-weight: bold;
+  &:hover {
+    color: #ff3;
+    text-decoration: none;
+  }
 }
 
-#logo:hover {
-  color: #fff;
+/*#logo:hover {
+  color: #ff3;
   text-decoration: none;
-}
+}*/
 
 
 /* footer */

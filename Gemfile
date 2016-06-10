@@ -2,6 +2,7 @@ source 'https://rubygems.org'
 
 gem 'rails',        '4.2.2'
 gem 'sass-rails',   '5.0.2'
+gem 'bcrypt',               '3.1.7'
 gem 'execjs'
 gem 'therubyracer', :platforms => :ruby
 gem 'coffee-rails', '4.1.0'
